@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/PostNotes/static/js/main.ee1ae230.chunk.js",
+    "main.js.map": "/PostNotes/static/js/main.ee1ae230.chunk.js.map",
+    "runtime-main.js": "/PostNotes/static/js/runtime-main.5feeb322.js",
+    "runtime-main.js.map": "/PostNotes/static/js/runtime-main.5feeb322.js.map",
+    "static/js/2.0c5e0a05.chunk.js": "/PostNotes/static/js/2.0c5e0a05.chunk.js",
+    "static/js/2.0c5e0a05.chunk.js.map": "/PostNotes/static/js/2.0c5e0a05.chunk.js.map",
+    "index.html": "/PostNotes/index.html",
+    "precache-manifest.0a026d63ef817f2f9ca8647a1bddfcea.js": "/PostNotes/precache-manifest.0a026d63ef817f2f9ca8647a1bddfcea.js",
+    "service-worker.js": "/PostNotes/service-worker.js",
+    "static/js/2.0c5e0a05.chunk.js.LICENSE.txt": "/PostNotes/static/js/2.0c5e0a05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5feeb322.js",
+    "static/js/2.0c5e0a05.chunk.js",
+    "static/js/main.ee1ae230.chunk.js"
+  ]
+}
